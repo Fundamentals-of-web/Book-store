@@ -58,6 +58,8 @@ STEP 4: Execute the project and create details for 10 books
     padding-top: 5px;
     padding-bottom: 5px;
 }
+~~~
+~~~
 .popup-box textarea{
     background: transparent;
     border: none;
@@ -67,8 +69,6 @@ STEP 4: Execute the project and create details for 10 books
     font-size: 20px;
     border: solid black 2px;
 }
-~~~
-~~~
 .popup-box input::placeholder{
     color: black;
 }
