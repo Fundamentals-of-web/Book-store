@@ -51,6 +51,8 @@ STEP 4: Execute the project and create details for 10 books
 .book-container h2{
     color: blueviolet;
 }
+~~~
+~~~
 .book-container button{
     background-color: blueviolet;
     color: black;
@@ -58,8 +60,6 @@ STEP 4: Execute the project and create details for 10 books
     padding-top: 5px;
     padding-bottom: 5px;
 }
-~~~
-~~~
 .popup-box textarea{
     background: transparent;
     border: none;
