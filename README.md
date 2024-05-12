@@ -33,6 +33,8 @@ STEP 4: Execute the project and create details for 10 books
           <script src="script.js"></script>
 </body>
 </html>
+~~~
+~~~
 ## Stule.css
 *{
     margin: 0;
@@ -91,6 +93,7 @@ function deletebook(event)
 {
     event.target.parentElement.remove()
 }
+~~~
 ## OUTPUT
 ![image](https://github.com/Fundamentals-of-web/Book-store/assets/141748873/ce4c0a2f-70f9-491a-b921-c8470f537b3c)
 ![image](https://github.com/Fundamentals-of-web/Book-store/assets/141748873/a119e5e1-496c-4040-812c-9fd9dcd34ed8)
