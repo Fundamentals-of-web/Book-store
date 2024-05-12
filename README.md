@@ -33,8 +33,6 @@ STEP 4: Execute the project and create details for 10 books
           <script src="script.js"></script>
 </body>
 </html>
-~~~
-~~~
 ## Stule.css
 *{
     margin: 0;
@@ -50,11 +48,9 @@ STEP 4: Execute the project and create details for 10 books
     display: inline-block;
     vertical-align: top;
 }
-
 .book-container h2{
     color: blueviolet;
 }
-
 .book-container button{
     background-color: blueviolet;
     color: black;
@@ -71,6 +67,8 @@ STEP 4: Execute the project and create details for 10 books
     font-size: 20px;
     border: solid black 2px;
 }
+~~~
+~~~
 .popup-box input::placeholder{
     color: black;
 }
